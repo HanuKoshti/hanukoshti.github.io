@@ -33,13 +33,13 @@ const Contact = () => {
 
     emailjs
       .send(
-        "service_a68kuxe",
+        "service_9l4g3z7",
         "template_03ust4q",
         {
           from_name: form.name,
           to_name: "Hanu Koshti",
           from_email: form.email,
-          to_email: "hanukoshti13@gmai.com",
+          to_email: "hanukoshti@outlook.com",
           message: form.message,
         },
         "JyttZ5AbrDnu7qQn6"
