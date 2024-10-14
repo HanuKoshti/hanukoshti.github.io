@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import Logo2 from "./Logo2.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -21,6 +21,11 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import c1 from "./tech/c1.jpg";
+import c2 from "./tech/c2.jpg";
+import c3 from "./tech/c3.jpg";
+import c4 from "./tech/c4.jpg";
+import c5 from "./tech/c5.jpg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -33,7 +38,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
-  logo,
+  Logo2,
   backend,
   creator,
   mobile,
@@ -62,4 +67,9 @@ export {
   jobit,
   tripguide,
   vois1,
+  c1,
+  c2,
+  c3,
+  c4,
+  c5,
 };
