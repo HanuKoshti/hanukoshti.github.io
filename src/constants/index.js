@@ -268,9 +268,9 @@ import {
   
   const certificates = [
     {
-      name: "Car Rent",
+      name: "Introduction to Artificial Intelligence (AI)",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Artificial Intelligence (AI) is all around us, seamlessly integrated into our daily lives and work. This course used to understand the key AI terminology and applications and launch your AI career or transform your existing one.",
       tags: [
         {
           name: "react",
@@ -289,9 +289,9 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Learning Python",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Python—the popular and highly readable object-oriented language—is both powerful and relatively easy to learn. Whether you're new to programming or an experienced developer.",
       tags: [
         {
           name: "react",
@@ -310,9 +310,9 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Hacking and Patching",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Web app hacking, including command and SQL injection, patching vulnerabilities, and using tools like Kali Linux, Metasploit, and Nessus for penetration testing and exploitation. It covers security design, memory systems, buffer overflow defenses, and password cracking with Hashcat.",
       tags: [
         {
           name: "nextjs",
@@ -331,9 +331,9 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Python Programming",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Python—the popular and highly readable object-oriented language—is both powerful and relatively easy to learn.",
       tags: [
         {
           name: "react",
@@ -352,9 +352,9 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Introduction To IOT",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "IOT and Digital Transformation are positively impacting businesses and goverments.",
       tags: [
         {
           name: "nextjs",
